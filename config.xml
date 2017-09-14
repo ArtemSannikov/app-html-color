@@ -9,7 +9,7 @@
 		    <name>HTML color</name>
 
 		    <!-- Description -->
-		    <description>Палитра HTML цветов</description>
+		    <description>Таблица (палитра) цветов html предоставляет вам возможность самостоятельно подобрать нужный вам тон. Значение цвета отображается в девяти форматах: HEX, RGB, HSL, CMYK, XYZ, WEBSAFE, RGBA, HSB/HSV и LAB.</description>
 
 		    <!-- Author -->
 		    <author href="https://artemsannikov.ru" email="info@artemsannikov.ru">
