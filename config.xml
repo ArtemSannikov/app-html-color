@@ -36,7 +36,6 @@
 			<preference name="InAppBrowserStorageEnabled" value="true" />
 			
 			<!-- Плагины -->
-			<gap:plugin name="cordova-plugin-whitelist" spec="npm" />
 			<gap:plugin name="phonegap-admob" source="npm"/> <!-- AdMob -->
 
 			<!-- Доступ к web сайтам -->
